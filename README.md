@@ -32,5 +32,16 @@ The objective of this assignment is to predict whether it will rain tomorrow usi
 - Recall: 47.92%
 - F1 Score: 57.61%
 
+## Visualizations
+
+### Rain Tomorrow Distribution
+![Rain Tomorrow Distribution](visualization/rain_tomorrow_distribution.png)
+
+### Confusion Matrix
+![Confusion Matrix](visualization/confusion%20Matrix.png)
+
+### ROC Curve
+![ROC Curve](visualization/Roc%20curve.png)
+
 ## Conclusion
 The Logistic Regression model successfully predicted whether it would rain tomorrow. The model achieved an accuracy of about 84%, demonstrating that Logistic Regression is suitable for this binary classification task.
